@@ -1,0 +1,11 @@
+id,message,location_name,lat,lon,severity,source
+1,House surrounded by river water six people on roof,Chengannur Budhanur side,9.3180,76.6150,high,Historical
+2,Ground floor submerged elderly and children inside,Kuttanad Nedumudi region,9.3900,76.4100,high,Historical
+3,Water inside church compound people on first floor,Aluva near church area,10.1070,76.3510,medium,Historical
+4,Bridge approach washed out travellers stuck in bus,Munnar road hairpin section,10.0890,77.0620,high,Historical
+5,Paddy fields flooded houses safe on higher ground,Kuttanad Kainakary village,9.4300,76.4100,medium,Historical
+6,Health centre flooded medicines damaged patients shifted,Chengannur hospital side street,9.3210,76.6225,high,Historical
+7,Water at chest level inside house phone battery low,Alappuzha near finishing point,9.4920,76.3380,high,Historical
+8,Road cut off by landslide village reachable only by boat,Idukki near Cheruthoni,9.8470,76.9730,high,Historical
+9,Courtyard waterlogged family safe on first floor,Kochi Panampilly Nagar,9.9620,76.3010,medium,Historical
+10,Minor overflow from canal being monitored,Thrissur near river side,10.5450,76.1900,low,Historical

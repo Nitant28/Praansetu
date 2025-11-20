@@ -1,0 +1,11 @@
+id,message,location_name,lat,lon,severity,source
+1,Water reached inside houses ten people on terrace,Mayur Vihar Phase 1,28.6085,77.2940,high,Historical
+2,Basement fully flooded cars parked are damaged,Laxmi Nagar Main Road,28.6325,77.2770,high,Historical
+3,Street covered with water shopkeepers moved stock up,Chandni Chowk Market,28.6562,77.2300,medium,Historical
+4,Underpass filled with water vehicles abandoned,Minto Bridge Underpass,28.6394,77.2190,high,Historical
+5,Water at knee level children shifted to neighbour house,South Extension Part 2,28.5675,77.2275,medium,Historical
+6,Colony park submerged one family missing contact,Sarita Vihar Pocket B,28.5280,77.2925,high,Historical
+7,Road outside building flooded residents moved to upper floors,Tilak Nagar Main Road,28.6400,77.0780,medium,Historical
+8,Light waterlogging only on road houses safe,Dwarka Sector 6 Market,28.5880,77.0645,low,Historical
+9,Low area near market fully flooded shops closed,Khan Market Back Lane,28.6000,77.2270,medium,Historical
+10,Minor water on street normal traffic,Rohini Sector 3,28.7090,77.1120,low,Historical

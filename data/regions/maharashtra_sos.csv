@@ -1,0 +1,6 @@
+id,message,location_name,lat,lon,severity,source
+1,Water entered ground floors twelve people on terrace,Mumbai Parel area,18.9937,72.8397,high,Historical
+2,Subway flooded cars stranded under bridge,Mumbai Andheri Subway,19.1197,72.8468,high,Historical
+3,Water near creek houses safe on first floor,Thane Creek Ghodbunder Road,19.2635,72.9492,medium,Historical
+4,Bus stand flooded passengers shifted inside shop,Pune Swargate,18.5010,73.8580,medium,Historical
+5,Light water on main road houses not affected,Pune Aundh,18.5625,73.8077,low,Historical

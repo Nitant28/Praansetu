@@ -1,0 +1,6 @@
+id,message,location_name,lat,lon,severity,source
+1,River water entered village people on school rooftop,Guwahati Uzan Bazar riverside,26.1890,91.7480,high,Historical
+2,Embankment breached fields flooded houses on higher mounds,Guwahati Beltola area,26.1225,91.7900,high,Historical
+3,Market street submerged shops closed,Dibrugarh riverside market,27.4830,94.9050,medium,Historical
+4,Village road cut off only boats can move,Jorhat low lying hamlet,26.7100,94.2100,high,Historical
+5,Light water near bus stand vehicles moving slowly,Jorhat town bus stand,26.7580,94.2090,low,Historical
